@@ -46,7 +46,7 @@ deps = [
     dependency("org.apache.kafka:kafka-clients:2.4.1"),
     dependency("org.apache.zookeeper:zookeeper:3.4.10"),
     dependency("org.hamcrest:hamcrest-core:1.3"),
-    dependency("org.javassist:javassist:3.18.1-GA"),
+    dependency("org.javassist:javassist:5.18.1-GA"),
     dependency("org.lz4:lz4-java:1.6.0"),
     dependency("org.portable-scala:portable-scala-reflect_2.12:0.1.0"),
     dependency("org.scala-lang.modules:scala-collection-compat_2.12:2.1.2"),
