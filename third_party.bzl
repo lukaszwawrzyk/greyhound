@@ -32,7 +32,7 @@ deps = [
     dependency("com.thoughtworks.paranamer:paranamer:2.8"),
     dependency("com.typesafe.scala-logging:scala-logging_2.12:3.8.0"),
     dependency("com.yammer.metrics:metrics-core:2.2.0"),
-    dependency("commons-cli:commons-cli:1.4"),
+    dependency("commons-cli:commons-cli:1.5.0"),
     dependency("dev.zio:zio_2.12:2.0.2"),
     dependency("dev.zio:zio-stacktracer_2.12:2.0.2"),
     dependency("dev.zio:zio-streams_2.12:2.0.2"),
