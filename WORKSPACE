@@ -32,9 +32,9 @@ vaticle_bazel_distribution()
 
 load("@vaticle_bazel_distribution//maven:deps.bzl", "maven_artifacts_with_versions")
 
-RULES_JVM_EXTERNAL_TAG = "3.1"
+RULES_JVM_EXTERNAL_TAG = "5.2"
 
-RULES_JVM_EXTERNAL_SHA = "e246373de2353f3d34d35814947aa8b7d0dd1a58c2f7a6c41cfeaff3007c2d14"
+RULES_JVM_EXTERNAL_SHA = "f86fd42a809e1871ca0aabe89db0d440451219c3ce46c58da240c7dcdc00125f"
 
 http_archive(
     name = "rules_jvm_external",
