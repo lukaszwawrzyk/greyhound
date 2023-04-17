@@ -56,7 +56,7 @@ deps = [
     dependency("org.scala-lang:scala-library:" + scala_version),
     dependency("org.scala-lang:scala-reflect:" + scala_version),
     dependency("org.scala-sbt:test-interface:1.0"),
-    dependency("org.slf4j:slf4j-api:1.7.25"),
+    dependency("org.slf4j:slf4j-api:1.7.36"),
     dependency("org.specs2:specs2-common_2.12:4.8.3"),
     dependency("org.specs2:specs2-core_2.12:4.8.3"),
     dependency("org.specs2:specs2-fp_2.12:4.8.3"),
