@@ -52,7 +52,7 @@ deps = [
     dependency("org.scala-lang.modules:scala-collection-compat_2.12:2.1.2"),
     dependency("org.scala-lang:scala-compiler:" + scala_version),
     dependency("org.scala-lang.modules:scala-parser-combinators_2.12:1.0.6"),
-    dependency("org.scala-lang.modules:scala-xml_2.12:1.1.0"),
+    dependency("org.scala-lang.modules:scala-xml_2.12:1.3.0"),
     dependency("org.scala-lang:scala-library:" + scala_version),
     dependency("org.scala-lang:scala-reflect:" + scala_version),
     dependency("org.scala-sbt:test-interface:1.0"),
