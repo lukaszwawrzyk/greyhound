@@ -41,7 +41,7 @@ deps = [
     dependency("dev.zio:zio-test-junit_2.12:2.0.2"),
     dependency("junit:junit:4.13"),
     dependency("net.sf.jopt-simple:jopt-simple:5.0.4"),
-    dependency("org.apache.curator:curator-test:2.12.0"),
+    dependency("org.apache.curator:curator-test:2.13.0"),
     dependency("org.apache.kafka:kafka_2.12:2.4.1"),
     dependency("org.apache.kafka:kafka-clients:2.4.1"),
     dependency("org.apache.zookeeper:zookeeper:3.4.10"),
