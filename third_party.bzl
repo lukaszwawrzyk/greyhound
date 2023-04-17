@@ -24,7 +24,7 @@ deps = [
     dependency("com.fasterxml.jackson.core:jackson-databind:2.9.6"),
     dependency("com.fasterxml.jackson.dataformat:jackson-dataformat-csv:2.10.0"),
     dependency("com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.9.6"),
-    dependency("com.fasterxml.jackson.module:jackson-module-paranamer:2.9.6"),
+    dependency("com.fasterxml.jackson.module:jackson-module-paranamer:2.14.2"),
     dependency("com.fasterxml.jackson.module:jackson-module-scala_2.12:2.9.6"),
     dependency("com.github.luben:zstd-jni:1.4.3-1"),
     dependency("com.google.guava:guava:16.0.1"),
