@@ -14,7 +14,7 @@ def dependency(coordinates,exclusions=None):
             exclusions = exclusions,
         )
 
-scala_version = "2.12.12"
+scala_version = "2.13.13"
 
 deps = [
     dependency("com.google.protobuf:protobuf-java:3.21.10"),
