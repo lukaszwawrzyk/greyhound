@@ -18,7 +18,7 @@ scala_version = "2.12.12"
 
 deps = [
     dependency("com.google.protobuf:protobuf-java:3.21.10"),
-    dependency("ch.qos.logback:logback-classic:1.1.11"),
+    dependency("ch.qos.logback:logback-classic:1.5.3"),
     dependency("com.fasterxml.jackson.core:jackson-annotations:2.9.0"),
     dependency("com.fasterxml.jackson.core:jackson-core:2.9.6"),
     dependency("com.fasterxml.jackson.core:jackson-databind:2.9.6"),
