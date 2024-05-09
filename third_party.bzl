@@ -36,7 +36,7 @@ deps = [
     dependency("dev.zio:zio_2.12:2.0.2"),
     dependency("dev.zio:zio-stacktracer_2.12:2.0.2"),
     dependency("dev.zio:zio-streams_2.12:2.0.2"),
-    dependency("dev.zio:zio-managed_2.12:2.0.2"),
+    dependency("dev.zio:zio-managed_2.12:2.1.0"),
     dependency("dev.zio:zio-test_2.12:2.0.2"),
     dependency("dev.zio:zio-test-junit_2.12:2.0.2"),
     dependency("junit:junit:4.13"),
